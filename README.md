@@ -7,4 +7,6 @@
 | Fixed_Anlage_wo_pwd.csv         | cleaned up data garbage                        | with [fix_postcode_city_mix.ipynb](fix_postcode_city_mix.ipynb)                                      |
 | Fixed_Anlage_wo_pwd_Encoded.csv | geo-encoded data                               |with osm                                                                                              |
 
-![liegenschaften.png](liegenschaften.png)
+<p align="center">
+<img width="350px" src="liegenschaften.png" />
+</p>
